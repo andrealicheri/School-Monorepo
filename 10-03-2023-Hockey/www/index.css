@@ -1,0 +1,87 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 0%;
+	background-color: black;
+}
+
+.title {
+	font-size: 60px;
+	align-items: center;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 60px;
+	background-color: hsl(198, 50%, 69%);
+	height: 200px
+}
+
+.intro {
+	font-size: 20px;
+	align-items: center;
+	padding: 60px;
+	background-color: hsl(222, 21%, 22%);
+	color: white;
+}
+
+.security {
+	font-size: 20px;
+	align-items: center;
+	padding: 60px;
+	background-color: hsl(0, 58%, 59%);
+	color: white;
+}
+
+.sport {
+	padding-right: 300px;
+}
+
+.sport-img {
+	margin-right: 10px;
+	width: 20rem;
+	height: auto;
+}
+
+.sport-div {
+	display: flex;
+}
+
+.line {
+	padding: 40px;
+	color: darkslategray;
+}
+
+.bob-img {
+	margin-right: 10px;
+	width: 20rem;
+	height: auto;
+}
+
+.bimbominchia {
+	width: 48rem !important; 
+	height: auto !important;
+}
+
+.trenino {
+	width: 57rem !important; 
+	height: auto !important;
+}
+
+.corrimano {
+	width: 94rem !important; 
+	height: auto !important;
+}
+
+.footer {
+	background-color: hsl(198, 10%, 20%);
+	font-size: 20px;
+	align-items: center;
+	padding: 40px;
+	color: white;
+}
+
+.ftext {
+	text-align: center;
+}
+
+.snow {
+	height: 25%;
+}
